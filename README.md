@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Symfony, plugins Wordpress**
 
-- 👨‍💻 All of my projects are available at [https://lemaitreenzo.github.io/CV-Numerique/](https://lemaitreenzo.github.io/CV-Numerique/)
-
 - 📫 How to reach me **lemaitreenzo05@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
